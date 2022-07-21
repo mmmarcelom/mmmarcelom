@@ -1,23 +1,17 @@
-### Hi there 👋
-
 <div align="center">
   <img src="/assets/GitHubHeader.png"/>
 </div>
 
-<!--
-**mmmarcelom/mmmarcelom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges">
+  <a href="https://www.linkedin.com/in/mmmarcelom">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
+<img src="https://komarev.com/ghpvc/?username=mmmarcelom&style=flat-square&color=blue" alt=""/>
 
+---
 
+Olá, meu nome é Marcelo Mesquita, sou advogado e product owner, tenho 36 anos, pai da Bárbara, adoro tecnologia, games, RPG, jogos de tabuleiro, podcasts e seriados...
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Possuo uma paixão por resolver problemas, otimizar o tempo e automatizar tarefas.
