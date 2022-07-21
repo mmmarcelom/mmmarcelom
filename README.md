@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-<!--
-**mmmarcelom/mmmarcelom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <div align="center">
   <img src="/assets/GitHubHeader.png"/>
 </div>
+
+<!--
+**mmmarcelom/mmmarcelom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 
 Here are some ideas to get you started:
