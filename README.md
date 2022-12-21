@@ -13,6 +13,6 @@
 
 ---
 
-Olá, meu nome é Marcelo Mesquita, sou advogado e product owner, tenho 36 anos, pai da Bárbara, adoro tecnologia, games, RPG, jogos de tabuleiro, podcasts e seriados...
+Olá, meu nome é Marcelo Mesquita, sou product owner e aspirante a analista de dados, tenho 36 anos, sou pai, adoro tecnologia, games, RPG, jogos de tabuleiro, podcasts e seriados...
 
 Possuo uma paixão por resolver problemas, otimizar o tempo e automatizar tarefas.
