@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://mmmarcelom.com.br">
-  <img src="/assets/Github.png"/>
+  <img src="/assets/Github (1).png"/>
 </div>
 
 <div id="badges">
