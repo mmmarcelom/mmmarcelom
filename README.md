@@ -9,8 +9,6 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=mmmarcelom&style=flat-square&color=blue" alt=""/>
-
 ---
 
 Olá, meu nome é Marcelo Mesquita, sou product owner e aspirante a analista de dados, tenho 36 anos, sou pai, adoro tecnologia, games, RPG, jogos de tabuleiro, podcasts e seriados...
