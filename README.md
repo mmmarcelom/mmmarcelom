@@ -14,3 +14,6 @@ Atualmente estou desenvolvendo um sistema jurídico para contratações e assina
 
 Também possuo um extensão do google planilhas publicado no Google Workspace <a href="https://workspace.google.com/marketplace/app/cpf/986290451627">(clique aqui para saber mais)</a>.
 
+Para entrar em contato:
+E-mail: mm.marcelomesquita@gmail.com
+Whatsapp: (82) 99946-4789
